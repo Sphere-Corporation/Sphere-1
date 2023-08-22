@@ -1,0 +1,21 @@
+[submodule "partslibraries"]
+	path = partslibraries
+	url = https://github.com/Sphere-Corporation/partslibraries.git
+[submodule "CPU-2"]
+	path = CPU-2
+	url = https://github.com/Sphere-Corporation/CPU-2.git
+[submodule "MISC"]
+	path = MISC
+	url = https://github.com/Sphere-Corporation/MISC.git
+[submodule "POWER"]
+	path = POWER
+	url = https://github.com/Sphere-Corporation/POWER.git
+[submodule "RS232"]
+	path = RS232 
+	url = https://github.com/Sphere-Corporation/RS232.git
+[submodule "ORB"]
+	path = ORB 
+	url = https://github.com/Sphere-Corporation/ORB.git
+[submodule "SOFTWARE"]
+	path = SOFTWARE 
+	url = https://github.com/Sphere-Corporation/SOFTWARE.git

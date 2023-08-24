@@ -1,13 +1,12 @@
 <!-- PROJECT LOGO -->
 <br />
 
-![Sphere-1 Corporation][sphere-corporation-logo]
+![Sphere-1 Corporation](sphere-corporation.png)
 
   <p align="center">
     A 21st Century recreation of the Sphere-1 CPU/2 Module
       </p>
 </div>
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -22,12 +21,17 @@ The main issue is that the documentation is sparse, with the computers even spar
 
 This is the story of how I got on, my trials and tribulations and (hopefully) in time, the results of my labours.
 
+<!-- INSTRUCTIONS -->
 
-<!-- ORGANISATION -->
-## Organisation
+## Getting started
 
-This project is organised as a series of [Github](www.github.com) repositories. This repository is simply a repository to gather the other repositories together under one umbrella. For the repositories themselves, go [here](https://github.com/Sphere-Corporation).
+- Ensure that you have a git client installed [for your platform](https://git-scm.com)
+- Ensure that you have the gif lfs extension installed [for your platform](https://git-lfs.com)
+- Clone the main Sphere-1 repository using
+  `git clone --recurse-submodules https://github.com/Sphere-Corporation/Sphere-1.git`
 
+- If you want to examine or modify the PCB layouts, you will need to install [KiCAD](kicad.org).
+  
 
 <!-- CONTRIBUTING -->
 

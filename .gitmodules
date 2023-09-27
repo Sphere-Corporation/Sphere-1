@@ -19,3 +19,6 @@
 [submodule "SOFTWARE"]
 	path = SOFTWARE 
 	url = https://github.com/Sphere-Corporation/SOFTWARE.git
+[submodule "HOMEBREW/GAME-TT"]
+	path = HOMEBREW/GAME-TT
+	url = https://github.com/Sphere-Corporation/GAME-TT.git

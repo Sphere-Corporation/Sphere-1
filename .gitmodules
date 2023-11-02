@@ -27,4 +27,4 @@
 	url = https://github.com/Sphere-Corporation/CONVERT.git
 [submodule "HOMEBREW/TOOLS/CONVERT/b2S"]
 	path = HOMEBREW/TOOLS/CONVERT/b2S
-	url = "https://github.com/bzotto/bin2sphere.git"
+	url = https://github.com/bzotto/bin2sphere.git

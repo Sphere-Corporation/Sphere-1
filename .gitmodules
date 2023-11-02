@@ -25,6 +25,4 @@
 [submodule "HOMEBREW/TOOLS/CONVERT-TT"]
 	path = HOMEBREW/TOOLS/CONVERT
 	url = https://github.com/Sphere-Corporation/CONVERT.git
-[submodule "HOMEBREW/TOOLS/CONVERT/b2S"]
-	path = HOMEBREW/TOOLS/CONVERT/b2S
-	url = https://github.com/bzotto/bin2sphere.git
+

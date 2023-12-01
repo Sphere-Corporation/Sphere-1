@@ -26,3 +26,6 @@
 	path = HOMEBREW/TOOLS/CONVERT
 	url = https://github.com/Sphere-Corporation/CONVERT.git
 
+[submodule "HOMEBREW/LANG-BF"]
+	path = HOMEBREW/LANG-BF
+	url = https://github.com/Sphere-Corporation/LANG-BF.git

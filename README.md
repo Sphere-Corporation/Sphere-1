@@ -13,7 +13,7 @@
 
 My journey into the Sphere started in March 2023, when I came across the interesting computer "Sphere 1" produced and marketed from Bountiful, Utah, beginning around 1975.
 
-I found this reference on a [Hackaday page](https://hackaday.com/2023/03/11/a-love-letter-to-the-sphere-computer/), which led me to Ben Zott's fantastic resource "http://sphere.computer”
+I found this reference on a [Hackaday page](https://hackaday.com/2023/03/11/a-love-letter-to-the-sphere-computer/), which led me to Ben Zotto's fantastic resource "http://sphere.computer”
 
 With an interest in retro computing, but a very elementary electronics knowledge, I decided that I had to build one, as no-one had attempted to re-create one from scratch since the original build days.
 
@@ -57,7 +57,7 @@ eMail [Andrew Shapton](mailto:alshapton@gmail.com)
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-I have to give my heartfelt thanks to Ben Zott, who has been a sounding board for me throughout this project, answering my emails, and checking his Sphere-1 CPU/2 board to answer questions, and offering thoughts as to why things “were like they were” ! Without him, I would never have got as far as I have.
+I have to give my heartfelt thanks to Ben Zotto, who has been a sounding board for me throughout this project, answering my emails, and checking his Sphere-1 CPU/2 board to answer questions, and offering thoughts as to why things “were like they were” ! Without him, I would never have got as far as I have.
 
 
 

@@ -1,2 +1,4 @@
 # Sphere-1
-Home repository for the Sphere-1 reconstruction
+All of the repositories are listed under the organisation of Sphere-Corporation.
+
+Click [HERE](https://github.com/Sphere-Corporation) to see them 
